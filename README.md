@@ -144,7 +144,7 @@ Siapakah Presiden Indonesia saat ini?
 Jokowi
 Joko Widodo
 Pranowo
-Jawaban Anda: Joko Widod
+Jawaban Anda: Joko Widodo
 Jawaban Anda Benar
 ```
 
