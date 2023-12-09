@@ -1,4 +1,7 @@
-# PBO-PART_1
+# F. Yosua P. Habeahan
+
+
+## PBO-PART_1
 
 ## penjelasan untuk jawaban soal 1
 untuk kode dari soal no 1 bernama part1_1 berikut penjelasannya 
